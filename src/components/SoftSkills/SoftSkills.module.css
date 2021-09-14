@@ -1,0 +1,25 @@
+.wrap {
+  border: rgb(199, 199, 199) 1px solid;
+  border-radius: 5px;
+  width: 400px;
+  background-color: #1a1b27;
+  padding: 20px;
+}
+.wrap > h2 {
+  color: rgb(11, 182, 235);
+  margin-top: 0;
+}
+.wrap > ul {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+}
+
+.wrap > ul > li::before {
+  content: "\272D";
+  width: 10px;
+  height: 10px;
+  margin-right: 10px;
+  color: #38bdae;
+}

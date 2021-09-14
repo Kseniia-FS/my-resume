@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+
+  padding: 30px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
