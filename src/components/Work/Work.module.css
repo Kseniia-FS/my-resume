@@ -67,3 +67,28 @@
   margin-left: 30px;
   font-size: 20px;
 }
+.brands {
+  display: flex;
+}
+
+.brands > li {
+  margin-right: 15px;
+  height: 70px;
+  border-radius: 4px;
+  width: 371px;
+  padding: 2px;
+}
+.brands > li:last-child {
+  margin-right: unset;
+}
+
+.bergge {
+  background-color: rgb(112, 247, 247);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.vivat > a > img {
+  width: 312px;
+}
