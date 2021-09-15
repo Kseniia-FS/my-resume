@@ -9,10 +9,9 @@ const Education = () => {
         <span>Education</span>
       </div>
       <div className={s.about}>
-        <span>2021</span>
-        <p>Full Stack Developer | GoIT</p>
-        <span>2019</span>
-        <p>Psychology department | Synergy</p>
+        <p>Full Stack Developer | GoIT | 2021</p>
+
+        <p>Psychology department | Synergy | 2019</p>
       </div>
     </section>
   );

@@ -16,7 +16,11 @@ export default function Sidebar() {
         </li>
         <li>
           <img src={LinkedIn} alt="" />
-          <a href="www.linkedin.com/in/kseniia-kovbasiuk" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/kseniia-kovbasiuk/"
+            target="_blank"
+            rel="noreferrer"
+          >
             linkedin.com/kseniia-kovbasiuk
           </a>
         </li>

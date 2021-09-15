@@ -7,9 +7,9 @@ const SoftSkills = () => {
         <li>Responsibility</li>
         <li>High speed of work</li>
         <li>Problem solving and creativity</li>
-        <li>Analytical mind</li>
+
         <li>Tenacity</li>
-        <li>Collaboration and teamwork</li>
+
         <li>Time management and organization</li>
         <li>Emotional intelligence</li>
       </ul>
