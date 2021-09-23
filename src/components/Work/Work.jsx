@@ -1,15 +1,11 @@
 import s from "./Work.module.css";
-import WorkIcon from "../../images/work.svg";
+
 import Bergge from "../../images/logo1.png";
 import Farbaland from "../../images/logo.png";
 import Vivat from "../../images/logo-vivat-1-2.png";
 const Work = () => {
   return (
     <section className={s.work}>
-      <div className={s.wrap}>
-        <img src={WorkIcon} alt="" className={s.image} />
-        <span>Work Experience</span>
-      </div>
       <div>
         <div className={s.wrapAbout}>
           <p className={s.aboutWork}>2010-2021</p>

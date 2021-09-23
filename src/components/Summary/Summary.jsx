@@ -1,15 +1,11 @@
 import s from "./Summary.module.css";
-import Book from "../../images/book.svg";
+
 import TechSkills from "../TechSkills/TechSkills";
 import SoftSkills from "../SoftSkills/SoftSkills";
 
 const Summary = () => {
   return (
     <section className={s.summary}>
-      <div className={s.wrap}>
-        <img src={Book} alt="" className={s.image} />
-        <span>Overview</span>
-      </div>
       <div className={s.about}>
         <p>
           First of all I should say that I passionate about my work, although I

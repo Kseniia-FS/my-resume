@@ -1,13 +1,8 @@
 import s from "./Projects.module.css";
-import Project from "../../images/project.svg";
 
 const Projects = () => {
   return (
     <section className={s.projects}>
-      <div className={s.wrap}>
-        <img src={Project} alt="" className={s.image} />
-        <span>Projects</span>
-      </div>
       <ul className={s.about}>
         <li className={s.item}>
           <p>Project: Filmoteka</p>
