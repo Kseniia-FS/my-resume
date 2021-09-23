@@ -1,4 +1,4 @@
-import Logo from "../../images/Pikachu.png";
+import Logo from "../../images/photo.jpg";
 import Email from "../../images/email.svg";
 import LinkedIn from "../../images/linkedin.svg";
 import GitHub from "../../images/github.svg";

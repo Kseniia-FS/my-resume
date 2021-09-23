@@ -1,7 +1,8 @@
 body {
   margin: 0;
-  background-color: #0d1117;
-  font-family: -apple-system, BlinkMacSystemFont, "Roboto", sans-serif;
+  background-color: #161b22;
+  color: rgb (201, 209, 217);
+  font-family: -apple-system, "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

@@ -11,7 +11,6 @@ const TechSkills = () => {
         <li>SASS</li>
         <li>GIT</li>
         <li>Webpack</li>
-        <li>OOP</li>
       </ul>
     </div>
   );

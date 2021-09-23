@@ -2,7 +2,7 @@ import s from "./Work.module.css";
 import WorkIcon from "../../images/work.svg";
 import Bergge from "../../images/logo1.png";
 import Farbaland from "../../images/logo.png";
-import Vivat from "../../images/logo-vivat.png";
+import Vivat from "../../images/logo-vivat-1-2.png";
 const Work = () => {
   return (
     <section className={s.work}>
@@ -15,7 +15,7 @@ const Work = () => {
           <p className={s.aboutWork}>2010-2021</p>
           <p className={s.name}>CEO</p>
           <ul>
-            <li>
+            <li className={s.item}>
               During the whole work there were many achievements that I am proud
               of. I have implemented three large projects from scratch, managed
               the team at all stages of implementation. The main challenge I

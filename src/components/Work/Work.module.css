@@ -83,12 +83,16 @@
 }
 
 .bergge {
-  background-color: rgb(112, 247, 247);
   display: flex;
   justify-content: center;
   align-items: center;
+  border: #30363d 1px solid;
 }
 
 .vivat > a > img {
   width: 312px;
+}
+.item {
+  font-size: 18px;
+  line-height: 1.3;
 }

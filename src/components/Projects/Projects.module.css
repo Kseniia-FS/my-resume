@@ -82,26 +82,26 @@
 }
 
 .js {
-  background-color: #f1e05a;
+  background-color: #f7eeb0;
 }
 .scss {
-  background-color: #c6538c;
+  background-color: #eeaccd;
 }
 .teamwork {
-  background-color: rgb(6, 233, 36);
+  background-color: rgb(150, 247, 163);
 }
 
 .react {
-  background-color: rgb(74, 104, 238);
+  background-color: rgb(130, 151, 243);
 }
 .rest {
-  background-color: rgb(41, 214, 245);
+  background-color: rgb(140, 225, 240);
 }
 
 .html {
-  background-color: rgb(240, 6, 25);
+  background-color: rgb(233, 134, 143);
 }
 
 .php {
-  background-color: rgb(240, 130, 6);
+  background-color: rgb(245, 201, 150);
 }
