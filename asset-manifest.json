@@ -1,31 +1,30 @@
 {
   "files": {
-    "main.css": "/my-site/static/css/main.2380d4cb.chunk.css",
-    "main.js": "/my-site/static/js/main.a721ec05.chunk.js",
-    "main.js.map": "/my-site/static/js/main.a721ec05.chunk.js.map",
+    "main.css": "/my-site/static/css/main.5ec3d8b0.chunk.css",
+    "main.js": "/my-site/static/js/main.095e1357.chunk.js",
+    "main.js.map": "/my-site/static/js/main.095e1357.chunk.js.map",
     "runtime-main.js": "/my-site/static/js/runtime-main.41c12378.js",
     "runtime-main.js.map": "/my-site/static/js/runtime-main.41c12378.js.map",
     "static/js/2.c168a7ad.chunk.js": "/my-site/static/js/2.c168a7ad.chunk.js",
     "static/js/2.c168a7ad.chunk.js.map": "/my-site/static/js/2.c168a7ad.chunk.js.map",
     "index.html": "/my-site/index.html",
-    "static/css/main.2380d4cb.chunk.css.map": "/my-site/static/css/main.2380d4cb.chunk.css.map",
+    "static/css/main.5ec3d8b0.chunk.css.map": "/my-site/static/css/main.5ec3d8b0.chunk.css.map",
     "static/js/2.c168a7ad.chunk.js.LICENSE.txt": "/my-site/static/js/2.c168a7ad.chunk.js.LICENSE.txt",
-    "static/media/Pikachu.7bec775e.png": "/my-site/static/media/Pikachu.7bec775e.png",
     "static/media/book.c773c164.svg": "/my-site/static/media/book.c773c164.svg",
     "static/media/education.6988dfd0.svg": "/my-site/static/media/education.6988dfd0.svg",
     "static/media/email.580a851b.svg": "/my-site/static/media/email.580a851b.svg",
     "static/media/github.f5722355.svg": "/my-site/static/media/github.f5722355.svg",
     "static/media/language.994aacef.svg": "/my-site/static/media/language.994aacef.svg",
     "static/media/linkedin.94348fab.svg": "/my-site/static/media/linkedin.94348fab.svg",
-    "static/media/logo.17759a31.png": "/my-site/static/media/logo.17759a31.png",
-    "static/media/logo1.6465560d.png": "/my-site/static/media/logo1.6465560d.png",
+    "static/media/logo1.1b0e7929.png": "/my-site/static/media/logo1.1b0e7929.png",
+    "static/media/photo.800abcc6.jpg": "/my-site/static/media/photo.800abcc6.jpg",
     "static/media/project.0b4dfa2f.svg": "/my-site/static/media/project.0b4dfa2f.svg",
     "static/media/work.d9aeae26.svg": "/my-site/static/media/work.d9aeae26.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.41c12378.js",
     "static/js/2.c168a7ad.chunk.js",
-    "static/css/main.2380d4cb.chunk.css",
-    "static/js/main.a721ec05.chunk.js"
+    "static/css/main.5ec3d8b0.chunk.css",
+    "static/js/main.095e1357.chunk.js"
   ]
 }
