@@ -25,7 +25,7 @@ function Navigation() {
       </NavLink>
       <NavLink to="/education" className={s.wrap} activeClassName={s.active}>
         <img src={EducationIcon} alt="" className={s.image} />
-        <span>Projects</span>
+        <span>Education</span>
       </NavLink>
       <NavLink to="/languages" className={s.wrap} activeClassName={s.active}>
         <img src={Language} alt="" className={s.image} />

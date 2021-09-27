@@ -12,3 +12,14 @@
   text-align: left;
   width: 1000px;
 }
+
+.about {
+  font-size: 18px;
+  line-height: 1.7;
+  padding: 20px;
+}
+
+.about > span {
+  font-weight: 600;
+  color: rgb(11, 182, 235);
+}
