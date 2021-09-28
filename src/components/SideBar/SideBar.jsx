@@ -15,23 +15,21 @@ export default function Sidebar() {
           kseniia.fs@gmail.com
         </li>
         <li>
-          <img src={LinkedIn} alt="" />
           <a
             href="https://www.linkedin.com/in/kseniia-kovbasiuk/"
             target="_blank"
             rel="noreferrer"
           >
-            linkedin.com/kseniia-kovbasiuk
+            <img src={LinkedIn} alt="" width="30" />
           </a>
         </li>
         <li>
-          <img src={GitHub} alt="" />
           <a
             href="https://github.com/Kseniia-FS"
             target="_blank"
             rel="noreferrer"
           >
-            github.com/Kseniia-FS
+            <img src={GitHub} alt="" width="30" />
           </a>
         </li>
       </ul>

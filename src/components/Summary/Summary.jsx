@@ -8,10 +8,10 @@ const Summary = () => {
     <section className={s.summary}>
       <div className={s.about}>
         <p>
-          First of all I should say that I passionate about my work, although I
-          have little experience for now. Software engineering is a never-ending
-          puzzle that I am passionately engaged in coding. My personal and
-          professional experience have taught me the following about myself:
+          First of all I should say that I passionate about my work. Software
+          engineering is a never-ending puzzle that I am passionately engaged in
+          coding. My personal and professional experience have taught me the
+          following about myself:
         </p>
         <ul>
           <li className={s.item}>I care for business</li>
