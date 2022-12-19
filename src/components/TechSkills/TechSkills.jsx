@@ -5,12 +5,15 @@ const TechSkills = () => {
       <h2>Tech Skills</h2>
       <ul>
         <li>JavaScript Es6</li>
-        <li>React.js</li>
-        <li>Redux</li>
-        <li>HTML5/CSS3</li>
-        <li>SASS</li>
+        <li>NodeJS</li>
         <li>GIT</li>
-        <li>Webpack</li>
+        <li>Nest.js</li>
+        <li>GraphQL</li>
+        <li>SQL/POSTGRES</li>
+        <li>MondoDB</li>
+        <li>Docker</li>
+        <li>React.js</li>
+        <li>HTML5/CSS3</li>
       </ul>
     </div>
   );

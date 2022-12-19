@@ -1,4 +1,5 @@
 import Logo from "../../images/photo.jpg";
+import Pickachu from "../../images/Pikachu.png"
 import Email from "../../images/email.svg";
 import LinkedIn from "../../images/linkedin.svg";
 import GitHub from "../../images/github.svg";
@@ -6,9 +7,9 @@ import s from "./SideBar.module.css";
 export default function Sidebar() {
   return (
     <section className={s.sidebar}>
-      <img src={Logo} alt="" className={s.photo} />
+      <img src={Pickachu} alt="" className={s.photo} />
       <p className={s.name}>Kseniia Kovbasiuk</p>
-      <p className={s.profession}>React, JavaScript Developer</p>
+      <p className={s.profession}>Full Stack Developer</p>
       <ul className={s.list}>
         <li>
           <img src={Email} alt="" />

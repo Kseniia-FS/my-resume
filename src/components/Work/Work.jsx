@@ -6,6 +6,17 @@ import Vivat from "../../images/logo-vivat-1-2.png";
 const Work = () => {
   return (
     <section className={s.work}>
+       <div className={s.wrapAbout}>
+        <p className={s.aboutWork}>2022</p>
+        <p className={s.name}>NodeJS Developer | Valtech UA</p>
+        <ul>
+          <li className={s.item}>
+          Designed, modified and implemented technology solutions for clients.
+          Worked to meet the specific needs of clients through groundbreaking software solutions.
+          Effectively carried products and processes from concept to completion.
+          </li>
+        </ul>
+      </div>
       <div className={s.wrapAbout}>
         <p className={s.aboutWork}>2021</p>
         <p className={s.name}>STUDENT | GoIT</p>
